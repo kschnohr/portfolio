@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.20
+%Locale:0x406
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Code
+FamilyName:Code
+StyleName:Regular
+FullName:Code Regular
+MenuName:Code
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Karol\OneDrive\Dokumenter\skole\Portfolio\Font\Code.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82444
+FileModTime:1568029146
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Code Regular
+NameArray:0,Win,1,Code
+%EndFont
+
